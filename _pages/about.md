@@ -15,4 +15,4 @@ permalink: /about/
 
 This website is powered by **[star](https://github.com/pythonhee/star)** [^1].
 
-[^1]:CNN 공부하는 중.
+[^1]:코딩테스트 준비 중.
